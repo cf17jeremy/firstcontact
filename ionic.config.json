@@ -1,0 +1,7 @@
+{
+  "name": "firstcontact",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
